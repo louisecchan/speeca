@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397089353151-lrbik3v97lm2fva2q9h1b21jdg8064uv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397089353151-lrbik3v97lm2fva2q9h1b21jdg8064uv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKxRCTo-PJB1ROdTkXwvHq2IWCC3x0ZBg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397089353151</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.speeca.app</string>
+	<key>PROJECT_ID</key>
+	<string>speeca-fc9d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speeca-fc9d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397089353151:ios:6d0961ab6f20ed489b450a</string>
+</dict>
+</plist>

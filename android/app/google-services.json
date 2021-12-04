@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "397089353151",
+    "project_id": "speeca-fc9d3",
+    "storage_bucket": "speeca-fc9d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397089353151:android:29bc0aa3c75531849b450a",
+        "android_client_info": {
+          "package_name": "co.speeca.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397089353151-22d5lrgt8okesoa3cl81fau9qqnrjliu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-skUUxrJfjnBaoVvnefKWNsIAbZbAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397089353151-22d5lrgt8okesoa3cl81fau9qqnrjliu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397089353151-kb79o12249c5uoe6ibpc011olnmcj7je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.speeca"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397089353151:android:8a0bfc65684c851c9b450a",
+        "android_client_info": {
+          "package_name": "com.speeca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397089353151-22d5lrgt8okesoa3cl81fau9qqnrjliu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ-skUUxrJfjnBaoVvnefKWNsIAbZbAGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397089353151-22d5lrgt8okesoa3cl81fau9qqnrjliu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397089353151-kb79o12249c5uoe6ibpc011olnmcj7je.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.speeca"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
