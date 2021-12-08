@@ -216,10 +216,10 @@ class Class extends React.Component {
               </Text>
             </View>
           </View>
-          <View style={{marginTop: 20, flexDirection: 'row'}}>
-            <Text style={{fontFamily: 'Quicksand-Medium'}}>課程學費 </Text>
+          {/* <View style={{marginTop: 20, flexDirection: 'row'}}>
+            <Text style={{fontFamily: 'Quicksand-Medium'}}>課程學費 </Text> */}
             {/* Course tuition */}
-            <Text
+            {/* <Text
               style={{
                 textDecorationLine: 'line-through',
                 fontFamily: 'Quicksand-Medium',
@@ -230,7 +230,7 @@ class Class extends React.Component {
               {' '}
               $99{' '}
             </Text>
-          </View>
+          </View> */}
           <View style={{marginTop: 20, flexDirection: 'row'}}>
             <Text style={{color: 'red', fontFamily: 'Quicksand-Medium'}}>
               {/* 謝謝大家支持,{' '} */}
@@ -251,7 +251,7 @@ class Class extends React.Component {
                 {/* Courses are currently full */}
             </Text>
           </View>
-          <TouchableOpacity
+          {/* <TouchableOpacity
             onPress={() => this.props.navigation.navigate('ClassUserInfo')}
             style={{
               backgroundColor: '#36BEFD',
@@ -265,12 +265,12 @@ class Class extends React.Component {
                 textAlign: 'center',
                 fontWeight: '800',
                 fontFamily: 'Quicksand-Medium',
-              }}>
+              }}> */}
               {/* 預留名額{' '} */}
-              {texts[lang].reservedPlaces}{' '}
+              {/* {texts[lang].reservedPlaces}{' '} */}
               {/* Reserved places */}
-            </Text>
-          </TouchableOpacity>
+            {/* </Text>
+          </TouchableOpacity> */}
           <Image1 width={'100%'} style={{marginTop: 20}} height={150} />
         </ScrollView>
       </View>
