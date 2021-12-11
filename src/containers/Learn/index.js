@@ -13,7 +13,7 @@ import {connect} from 'react-redux';
 import Tab1 from '../../assets/learn-image.svg';
 import Header from '../../components/HeaderCustom';
 import texts from '../../utils/Convertor/translation.json';
-
+const OpenCC = require('opencc-js');
 function Learn(props) {
   const [visible, setvisible] = useState('');
   const [buttontext, setbuttontext] = useState([]);
@@ -161,7 +161,10 @@ function Learn(props) {
                   width: '100%',
                   fontFamily: 'Quicksand-Medium',
                 }}>
-                {item.cname}
+                  {props.lang != 'hk'
+                        ? OpenCC.Converter({from: 'hk', to: 'cn'})(item.cname)
+                        : item.cname}
+                {/* {item.cname} */}
               </Text>
             </TouchableOpacity>
           );
